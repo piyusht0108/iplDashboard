@@ -28,7 +28,7 @@ class Home extends Component {
     return (
       <div className="body-container">
         {isLoading ? (
-          <div testid="loader">
+          <div>
             <Loader type="Oval" color="#ffffff" height={50} width={50} />
           </div>
         ) : (
