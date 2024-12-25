@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.latest-match-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  height: 400px;
+  background-color: #0f172a;
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 16px;
+  width: 1000px;
+}
+
+.competing-team-img {
+  height: 200px;
+}
+
+.match-details {
+  text-align: right;
+}
